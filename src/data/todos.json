@@ -1,0 +1,39 @@
+{
+    "tasks": [
+    {
+    "id": 1,
+    "title": "Complete React project",
+    "description": "Finish the final module of the React course.",
+    "status": "pending",
+    "lastUpdated": "2024-08-06T10:00:00Z"
+    },
+    {
+    "id": 2,
+    "title": "Buy groceries",
+    "description": "Purchase milk, eggs, bread, and fruits.",
+    "status": "done",
+    "lastUpdated": "2024-08-05T15:30:00Z"
+    },
+    {
+    "id": 3,
+    "title": "Schedule doctor appointment",
+    "description": "Call the clinic to schedule an appointment.",
+    "status": "pending",
+    "lastUpdated": "2024-08-06T09:00:00Z"
+    },
+    {
+    "id": 4,
+    "title": "Read a book",
+    "description": "Start reading 'The Great Gatsby'.",
+    "status": "pending",
+    "lastUpdated": "2024-08-04T20:00:00Z"
+    },
+    {
+    "id": 5,
+    "title": "Clean the house",
+    "description": "Vacuum and dust all rooms.",
+    "status": "done",
+    "lastUpdated": "2024-08-03T14:00:00Z"
+    }
+    ]
+    }
