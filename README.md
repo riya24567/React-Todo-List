@@ -11,7 +11,8 @@ Features
 
 
 System Design
-The application is built using React for the front end. Tasks are stored in a dummy JSON file.
+
+The application is built using React for the front end. Tasks are stored in a dummy JSON file named todos.json inside the data folder in src.
 
 
 Installation and Setup
