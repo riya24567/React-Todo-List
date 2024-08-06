@@ -25,3 +25,7 @@ Steps:
 4. Start the development server: npm start
 
 This will start the application on http://localhost:3000.
+
+
+![image](https://github.com/user-attachments/assets/754e3d86-fb9e-44af-ae65-bd7af02b385c)
+
