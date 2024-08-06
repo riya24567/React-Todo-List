@@ -9,12 +9,14 @@ Features
 5. View Completed Tasks: Users can view a list of completed tasks along with the date and time of completion.
 6. Persist Data: The application uses local storage to persist tasks, so they are not lost on page refresh.
 
+
 System Design
 The application is built using React for the front end. Tasks are stored in a dummy JSON file.
 
-Installation and Setup
-Prerequisites: Node.js and npm should be installed on your machine.
 
+Installation and Setup
+
+Prerequisites: Node.js and npm should be installed on your machine.
 Steps:
 1. Clone the repository: git clone https://github.com/riya24567/React-Todo-List.git
 2. Navigate to the project directory: cd todo-app
